@@ -21,8 +21,8 @@ Python | MATLAB | SIDRA | VISSIM | AutoCAD | ETABS | SAP2000 | Excel
 ## 🎓 Certifications
 
 - CS50 Python (Harvard)
-- MATLAB, (Vanderbilt)
-- Traffic Flow Modeling and ITS, (EPFL)
+- MATLAB (Vanderbilt)
+- Traffic Flow Modeling and ITS (EPFL)
 
 
 ## 📫 Connect with me
