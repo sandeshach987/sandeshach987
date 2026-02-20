@@ -28,7 +28,7 @@ Python | MATLAB | SIDRA | VISSIM | AutoCAD | ETABS | SAP2000 | Excel
 ## 📫 Connect with me
 
 - Reach me at: [acharyasandesh987@gmai.com](mailto:acharyasandesh987@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/sandeshacharya000/) | [Google Scholar](https://scholar.google.com/citations?user=5ndJC1EAAAAJ&hl=en&authuser=2) | 
+- [LinkedIn](https://www.linkedin.com/in/sandeshacharya000/) | [Google Scholar](https://scholar.google.com/citations?user=5ndJC1EAAAAJ&hl=en&authuser=2) 
 
 ---
 Want to discuss traffic systems, simulation, or applied machine learning? I’m open to collaboration.
